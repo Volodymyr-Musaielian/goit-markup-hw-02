@@ -109,6 +109,8 @@ button {
 .btn-order {
   color: var(--white-color);
   background-color: var(--accent-color);
+  font-weight: 500;
+  letter-spacing: 0.04em;
 }
 
 .btn-order:hover,
